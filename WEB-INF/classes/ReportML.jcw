@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ReportML</label>
+		<id>8</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>ReportML.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ReportML.jcp</path>
+		</project>
+	</projects>
+</workspace>
